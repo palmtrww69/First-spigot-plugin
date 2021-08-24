@@ -1,0 +1,17 @@
+lobby-world: 'world'
+
+
+# Enable motd message
+motd: true
+# Add and remove lines as needed
+motd-message:
+    - '§d§o-==-=-=-=-=-=-==--==-=-=-=-=-=-=-=-==--==--='
+    - ''
+    - '§aWelcome to the §c§lrandom §enetwork'
+    - '§apalmtrww69 is so §9awesome!!!!!!!!!!!'
+    - ''
+    - '§d§o-==-=-=-=-=-=-==--==-=-=-=-=-=-=-=-==--==--='
+
+
+off-message: '§3You can no longer fly.'
+on-message: '§bYou can fly now. Be free!'

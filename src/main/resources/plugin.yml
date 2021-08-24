@@ -1,0 +1,28 @@
+name: FirstPlugin
+version: '${project.version}'
+main: com.palmtrww69.firstplugin.FirstPlugin
+api-version: 1.13
+authors: [ palmtrww69 ]
+description: My first plugin with spigot made for learning purposes
+commands:
+  wand:
+    description: Gives a wand to the player
+    usage: /<command>
+
+  tpbow:
+    description: Gives a teleporation bow to the player
+    usage: /<command>
+
+  rtp:
+    description: Randomly teleports a user around the world
+    usage: /<command>
+
+  feed:
+    description: Restores their food level
+    usage: /<command>
+
+  fly:
+    description: Toggles your flight status
+    usage: /<command>
+
+
